@@ -87,5 +87,5 @@ def predict():
 
 
 if __name__ == '__main__':
-    # Starts the development web server so users can access it in a browser
+
     app.run(debug=True)
